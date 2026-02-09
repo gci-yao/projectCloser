@@ -49,7 +49,7 @@ export default function Contact() {
           {/* QR Code */}
           <div className="bg-slate-1 p-6 rounded-2xl ">
             <img
-              src="/src/assets/wa.png"
+              src="/wa.png"
               alt="QR Code WhatsApp"
               className="w-48 h-48 object-contain"
             />

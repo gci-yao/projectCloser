@@ -12,7 +12,7 @@ export default function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat blur-2xl scale-10"
         style={{
-          backgroundImage: "url('/src/assets/yao.jpeg')",
+          backgroundImage: "url('/yao.jpeg')",
         }}
       />
       {/* Overlay sombre animé */}
